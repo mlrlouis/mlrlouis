@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there 🙋‍♂️
+
+I'm **Louis**, a Computer Science student based in **Germany**.
+
+I code to build tools, solve problems, or sometimes just because I'm bored.
+
+If a random idea pops into my head, the chances of me starting a new project are high. The probability of me actually *finishing* it? Let's just say it's... moderate. 📉📈
+
+My main tech stack is **Python** and **Java**, but I also speak a little **C**.
+
+I’ve recently been working on an [Internship Tracker](https://github.com/mlrlouis/internship-tracker) to help organize the chaos of job applications.
 
 <!--
 **mlrlouis/mlrlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
