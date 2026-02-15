@@ -4,7 +4,7 @@ I'm **Louis**, a Computer Science student based in **Germany**.
 
 I code to build tools, solve problems, or sometimes just because I'm bored.
 
-If a random idea pops into my head, the chances of me starting a new project are high. The probability of me actually *finishing* it? Let's just say it's... moderate. 📉📈
+If a random idea pops into my head, the chances of me starting a new project are high. The probability of me actually *finishing* it? Let's just say it's... moderate.
 
 My main tech stack is **Python** and **Java**, but I also speak a little **C**.
 
