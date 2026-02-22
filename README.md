@@ -10,6 +10,8 @@ My main tech stack is **Python** and **Java**, but I also speak a little **C**.
 
 I’ve recently been working on an [Internship Tracker](https://github.com/mlrlouis/internship-tracker) to help organize the chaos of job applications.
 
+Currently I'm working on [F1-Telemetry-Visualizer](https://github.com/mlrlouis/F1-Telemetry-Visualizer).
+
 <!--
 **mlrlouis/mlrlouis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
